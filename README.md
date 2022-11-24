@@ -17,6 +17,3 @@ Bot works best on a cookie map and that metal-futuristic one as the branch asset
 ## Contribution 
 Please feel free to submit an issue or pull request. I understand that I might have overlooked some stuff - OS specific and any other issues you might encounter are very welcome to sumbit.
 To develop, you will need Python and all the directories listed in requirements.txt
-
-#### Important
-This program was created only for automation learning purposes 

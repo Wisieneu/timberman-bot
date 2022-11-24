@@ -1,4 +1,4 @@
-import os, msvcrt, time, pyautogui, numpy
+import os, msvcrt, time, pyautogui, numpy, win32gui, win32ui, win32con
 import cv2 as cv
 import numpy as np
 from cv2 import TM_CCOEFF_NORMED
@@ -20,8 +20,6 @@ def freeze_wait_for_input():
 # captures a window preview of a certain window 
 # if arg is None will screenshot entire screen
 def window_capture(window=None):
-    import win32gui, win32ui, win32con
-
 
     if window:
         if type(window)==int:

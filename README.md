@@ -5,8 +5,10 @@ It's a very easy to use, interactive Command-line interface that uses user input
 It is most recommended that you use the [Steam version of the game](https://store.steampowered.com/app/398710/Timberman/) as the primary version of this program has been made for this client using its assets.
 
 ## How do I run it????
+
 Run **timberman_scripy.py** on any IDE. 
-though before doing so, make sure you have python installed and all libraries listed in `requirements.txt` on your PC as well.
+
+Though before doing so, make sure you have python installed and all libraries listed in `requirements.txt` on your PC as well.
 
 ## Settings
 * Use singleplayer
@@ -16,4 +18,5 @@ though before doing so, make sure you have python installed and all libraries li
 
 ## Contribution 
 Please feel free to submit an issue or pull request. I understand that I might have overlooked some stuff - OS specific and any other issues you might encounter are very welcome to sumbit.
+
 To develop, you will need Python and all the directories listed in requirements.txt

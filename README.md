@@ -9,10 +9,10 @@ Run **timberman_scripy.py** on any IDE.
 though before doing so, make sure you have python installed and all libraries listed in `requirements.txt` on your PC as well.
 
 ## Settings
-Use singleplayer
-Game resolution: 1920x1080 windowed/borderless
-Any position on screen, program will alt tab to the game automatically for you
-Bot works best on a cookie map and that metal-futuristic one as the branch assets are most consistent there. On these maps the bot scores over 5000 for me very easily. 
+* Use singleplayer
+* Game resolution: 1920x1080 windowed/borderless
+* Any position on screen, program will alt tab to the game automatically for you
+* Bot works best on a cookie map and that metal-futuristic one as the branch assets are most consistent there. On these maps the bot scores over 5000 for me very easily. 
 
 ## Contribution 
 Please feel free to submit an issue or pull request. I understand that I might have overlooked some stuff - OS specific and any other issues you might encounter are very welcome to sumbit.

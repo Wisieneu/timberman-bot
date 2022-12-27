@@ -1,14 +1,13 @@
 # Timberman-bot
 
-A Timberman bot that is mostly basing on the openCV-python directory as a detection engine. This is my very first public Python project that is a part of my professional portfolio.
-It's a very easy to use, interactive Command-line interface that uses user input for navigation. 
+A Timberman bot that is mostly basing on the **openCV-python** directory as a detection engine. This is my very first public Python project that is a part of my professional portfolio.  
+It's a very easy to use, interactive Command-line interface that uses user input for navigation.  
 It is most recommended that you use the [Steam version of the game](https://store.steampowered.com/app/398710/Timberman/) as the primary version of this program has been made for this client using its assets.
 
 ## How do I run it????
 
-Run **main.py** on any IDE. 
-
-Though before doing so, make sure you have python installed and all libraries listed in `requirements.txt` on your PC as well.
+Run `main.py` on any IDE.  
+Though before doing so, make sure you have python installed and all libraries listed in `requirements.txt` on your PC as well.  
 
 ## Settings
 * Use singleplayer

@@ -6,7 +6,7 @@ It is most recommended that you use the [Steam version of the game](https://stor
 
 ## How do I run it????
 
-Run **timberman_scripy.py** on any IDE. 
+Run **main.py** on any IDE. 
 
 Though before doing so, make sure you have python installed and all libraries listed in `requirements.txt` on your PC as well.
 
@@ -17,6 +17,6 @@ Though before doing so, make sure you have python installed and all libraries li
 * Bot works best on a cookie map and that metal-futuristic one as the branch assets are most consistent there. On these maps the bot scores over 5000 for me very easily. 
 
 ## Contribution 
-Please feel free to submit an issue or pull request. I understand that I might have overlooked some stuff - OS specific and any other issues you might encounter are very welcome to sumbit.
+Please feel free to submit an issue or pull request. I understand that I might have overlooked some stuff - OS specific and any other issues you might encounter are very welcome to sumbit.  
 
 To develop, you will need Python and all the directories listed in requirements.txt
